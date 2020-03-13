@@ -1,0 +1,14 @@
+{
+  "name": "ex_01",
+  "version": "1.0.0",
+  "description": "Exercicio com typescript",
+  "main": "ex_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pricilla Souza",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
